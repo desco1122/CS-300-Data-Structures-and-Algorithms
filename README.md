@@ -1,6 +1,6 @@
 # CS-300 Data Structures and Algorithms: Analysis and Design
 
-What was the problem you were solving in the projects for this course?
+**What was the problem you were solving in the projects for this course?**
 
 The main problem I was solving in the projects for this course was how to use data structures and algorithms to efficiently store, organize, and manipulate data. In Project One, I analyzed the runtime and memory of different data structures, such as arrays, linked lists, and stacks. This helped me to understand the trade-offs between different data structures and how to choose the right data structure for a particular problem.
 
